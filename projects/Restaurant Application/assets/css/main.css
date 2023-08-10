@@ -1,0 +1,324 @@
+a {
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+}
+
+/* Header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+    margin: 0 auto;
+    margin-top: 32px;
+    align-items: center;
+}
+
+.header ul {
+    display: flex;
+    gap: 48px;
+}
+
+/* Hero */
+
+.hero {
+    background-image: url("../img/hero.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 784px;
+    margin-top: 28px;
+    margin-bottom: 64px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.herocontainer {
+    width: 920px;
+    height: 266px;
+    gap: 40px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+.herocontainer h2 {
+    font-size: 80px;
+
+}
+
+.herocontainer a {
+    font-size: 23px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    line-height: 1.39;
+}
+
+.herobutton {
+    width: 332px;
+    height: 64px;
+    gap: 16px;
+    margin: 16px 64px;
+    padding: 16px 64px;
+    border-radius: 3px;
+    background-color: #fd7e14;
+    text-align: center;
+}
+
+/* Container */
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+/* Food Types */
+
+.foodtypes {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+.circle {
+    background-image: url("../img/daire.svg");
+    background-size: 100% 100%;
+    width: 165px;
+    height: 165px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Latestrecipes */
+
+.title1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    margin-top: 112px;
+    margin-bottom: 32px;
+    width: 100%;
+}
+
+
+.latestrecipes {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.latestrecipes img {
+    height: 293px;
+}
+
+.latestrecipes p {
+    font-size: 20px;
+    margin: 8px 0 0;
+    line-height: 1.5;
+    text-align: left;
+    margin-bottom: 32px;
+}
+
+.latestrecipe {
+    width: 260px;
+}
+
+.latestrecipe2 {
+    width: 259px;
+}
+
+.latestrecipesbutton {
+    padding: 16px 48px;
+    font-size: 23px;
+    line-height: 32px;
+    border: solid 1px #121212;
+    font-weight: 600;
+    margin-top: 40px;
+    margin: 0 auto;
+}
+
+/* Mail Part */
+
+.mailpart {
+    margin-top: 80px;
+    margin-bottom: 120px;
+    background-image: url("../img/mailbg.jpg");
+    border-radius: 12px;
+    height: 352px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mailpartinside {
+    width: 426px;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.mailpart h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 16px;
+}
+
+input[type=text] {
+    width: 327px;
+    padding: 12px 0 12px 16px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 24px;
+    color: #807e7e;
+    border: solid 1px #c4c4c4;
+    border-radius: 3px;
+}
+
+
+.emailbutton img {
+    position: absolute;
+    background-color: #fd7e14;
+    padding: 13px 21px 13px 22px;
+    left: 323px;
+    top: 97px;
+    border-radius: 0px 2px 2px 0px;
+}
+
+/* Strawberry */
+
+.strawberry {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.strawberrypart1 {
+    width: 443px;
+
+}
+
+.strawberryh1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    height: 210px;
+    line-height: 1.17;
+    letter-spacing: -0.7px;
+    text-align: left;
+    color: #212121;
+    margin-bottom: 32px;
+}
+
+.strawberryicon {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.strawberryicon img {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+}
+
+.strawberrybutton {
+    width: 252px;
+    height: 64px;
+    gap: 16px;
+    padding: 16px 64px;
+    border-radius: 3px;
+    background-color: #fd7e14;
+    font-family: Montserrat;
+    color: white;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+/* Featured collections */
+
+.featuredcollections {
+    display: flex;
+    font-size: 30px;
+    font-family: Montserrat;
+    line-height: 1.23;
+    letter-spacing: -0.35px;
+    font-weight: bold;
+    text-align: left;
+    color: #212121;
+    margin-bottom: 136px;
+}
+
+
+.pancakeandburgerimg {
+    position: relative;
+}
+
+
+.pancakeandburgerimg img {
+    width: 543px;
+    height: auto;
+}
+
+.feturedbutton {
+    padding: 4px 24px;
+    border-radius: 3px;
+    background-color: white;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.71;
+    color: #212121;
+    position: absolute;
+    top: 16px;
+    left: 407px;
+}
+
+
+/* Footer */
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+
+.footer ul {
+    display: flex;
+    gap: 48px;
+}
+
+.end {
+    margin-top: 160px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.end p {
+    font-size: 14px;
+    text-align: left;
+    color: #807e7e;
+    line-height: 1.71;
+}
+
+.end ul {
+    display: flex;
+    gap: 40px;
+}
