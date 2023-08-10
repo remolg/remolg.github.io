@@ -1,0 +1,466 @@
+ @media  only screen and  (max-width: 600px )  {
+
+    .navbar {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+    }
+
+    .navbarlinks a {
+        display: none;
+    }
+
+    .navbarbutton {
+        display: none;
+    }
+
+    .mobilehamburger {
+        display: block;
+    }
+
+    .expetenda{
+        display: block;
+        margin-top: 31px;
+    }
+
+    .expetendaleft p {
+        width: 100%;
+        margin-top: 19px;
+    }
+
+    .expetendabutton {
+        margin-top: 25px;
+    }
+
+    .expetendaleft h1 {
+        margin-top: 5px;
+    }
+
+    .vivendo {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+    }
+
+    .vivendoheader {
+        padding-top: 42px;
+    }
+
+    .vivendoheader p {
+        width: 100%;
+        margin-top: 31px;
+        margin-bottom: 50px;
+    }
+
+    .vivendoheader h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .vivendocard {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .card {
+        width: 346px;
+    }
+
+    .aliquip {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+    }
+
+    .aliquipheader p {
+        width: 100%;
+        margin-top: 31px;
+    }
+
+    .aliquipheader h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    
+    .aliquipnemoreright p {
+        margin-top: 23px;
+    }
+
+    .doloremleft p {
+        margin-top: 23px;
+    }
+
+    .aliquipnemore {
+        flex-direction: column;
+    }
+
+    .dolorem {
+        flex-direction: column-reverse;
+    }
+
+    .doloremleft h3 {
+        width: 100%;
+    }
+
+    .aliquipnemorerightlernmore {
+        margin-top: 0;
+    }
+
+    .aliquipnemorerightlernmore2 {
+        margin-bottom: 52px;
+    }
+
+
+    .molestiae {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+    }
+
+
+
+
+    .molestiaeheader {
+        padding-top: 63px;
+    }
+
+    .molestiaeheader h2 {
+        font-size: 40px;
+        line-height: 48px;
+        margin-top: 19px;
+    }
+
+    .molestiaeheader p {
+        width: 100%;
+        margin-top: 32px;
+    }
+
+    .textonpicture {
+        width: 100%;
+        background-position: 69% center;
+        border-radius: 5px;
+        margin-top: 33px;
+    }
+
+    .textpadding {
+        padding-left: 30px;
+        padding-top: 31px;
+    }
+
+    .textpadding a {
+        margin-top: 22px;
+    }
+
+    .textpadding h2 {
+        width: 100%;
+        font-size: 40px;
+        line-height: 48px;
+        margin-top: 3px;
+    }
+
+    .pictures {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+    }
+
+    .picturesheader {
+        flex-direction: column;
+        margin-top: 112px;
+        gap: 16px;
+    }
+
+    .erroribus {
+        width: 100%;
+        background-position: 59% center;
+    }
+
+    .erroribustext {
+        padding-left: 30px;
+        padding-top: 31px;
+    }
+
+    .scripserit {
+        width: 100%;
+        background-position: center;
+    }
+
+    .scripserittext {
+        padding-left: 30px;
+        padding-top: 31px;
+    }
+    
+    .nemore {
+        flex-direction: column;
+        padding-bottom: 62px;
+    }
+
+    .nemoreright h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .nemorerightunder {
+        flex-direction: column;
+    }
+
+    .unup {
+        width: 375px;
+        margin: 0 auto; 
+        flex-direction: column;
+    }
+    .unup img {
+        width: 100%;
+        position: static;
+    }
+
+    .unupleft {
+        padding-right: 14px;
+        padding-left: 14px;
+        margin-bottom: 64px;
+    }
+    .unupleft h5 {
+        margin-top: 63px;
+    }
+    
+    .unupleft p {
+        width: 100%;
+    }
+
+    .scriptorem {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+    }
+
+    .scriptoremup p{
+        width: 100%;
+    }
+
+    .scriptoremcards {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .adfall h2 {
+    font-size: 40px;
+    }
+
+    .adfall p {
+        width: 100%;
+    }
+
+    .adfallcard {
+        width: 346px;
+    }
+
+    .dicta {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+        flex-direction: column;
+        padding-top: 80px;
+        padding-bottom: 57px;
+    }
+
+    .dictadesktop {
+        display: none;
+    }
+
+    .dictamobile {
+        display: block;
+    }
+
+    .dictaleft {
+        margin-left: 0;
+    }
+
+    .dictaleft h5 {
+        margin-top: 33px;
+    }
+
+    .dictaflex {
+        display: flex;
+        align-items: center;
+        gap: 11px;
+    }
+    
+    .dictabuttons {
+        margin-right: 0;
+    }
+
+    .petentium {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+    }
+
+    .petentium h6 {
+        width: 100%;
+    }
+
+    .petentiumsocialmedia {
+        flex-direction: column;
+        gap: 33px;
+    }
+
+    .novum {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+    }
+
+    .novumup a {
+        display: none;
+    }
+
+    .novumup h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .novumcards {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .novumcard > img {
+        height: 100%;
+    }
+
+    .novummobile1 {
+        display: none;
+    }
+    
+    .novummobile2 {
+        display: block;
+    }
+
+    .novummobilea {
+        display: block;
+        font-family: 'DM Sans';
+        font-weight: 700;
+        color: #434CCC;
+        text-decoration: none;
+        border: 1px solid rgba(67, 76, 204, 0.32);
+        border-radius: 5px;
+        padding: 13px 54px 11px 54px;
+        margin: 32px auto 0;
+    }
+
+    .viderer {
+        flex-direction: column;
+        margin-top: 0;
+        gap: 20px;
+        padding-bottom: 84px;
+    }
+
+    .viderer > img {
+       width: 100%;
+    }
+
+    .vidererleft h5 {
+        margin-top: 111px;
+    }
+
+    .vidererleft h4 {
+        width: 275px;
+    }
+
+    .maiestatis {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+        flex-direction: column;
+    }
+
+    .maiestatisleft {
+        margin-top: 83px;
+    }
+    .maiestatisleft h2 {
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .maiestatisleftinput {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .maiestatisleftinput a {
+        margin-right: auto;
+    }
+
+    .maiestatisleftinput input {
+        width: 100%;
+    }
+
+    .ancillae {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .mapiconmobile1 {
+        display: block;
+    }
+
+    .mapiconmobile2 {
+        display: none;
+    }
+
+    .ancillaeright {
+        margin-top: 47px;
+    }
+
+    .ancillaeinputs {
+        width: 100%;
+    }
+
+    .end {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+        flex-direction: column;
+    }
+
+    .endlogo {
+        width: 100%;
+    }
+
+    .endflex1 {
+        margin-top: 80px;
+    }
+
+    .endright {
+        margin-top: 72px;
+        width: 100%;
+    }
+
+    .created {
+        width: 375px;
+        margin: 0 auto; 
+        padding-right: 14px;
+        padding-left: 14px;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+}
+

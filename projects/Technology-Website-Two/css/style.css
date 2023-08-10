@@ -1,0 +1,460 @@
+body {
+    background-color: #212121;
+    margin: 0 auto;
+    color: #fff;
+}
+
+        /* Container */
+
+.container {
+    width: 1110px;
+    margin: 0 auto;
+}
+
+        /* Container End */
+        /* Header */
+
+.header {
+    display: flex;
+    height: 88px;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+.header a {
+    margin-right: auto;
+}
+
+.avatar {
+    width: 32px;
+    height: 32px;
+    margin-right: 8px;
+}
+
+.header01 {
+    width: 12px;
+    height: 12px;
+    margin-right: 52px;
+}
+
+.header02 {
+    margin-right: 40px;
+}
+
+.header p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    line-height: 28px;
+    margin-right: 10px;
+}
+
+        /* Header End */
+        /* Hero */
+
+.hero {
+    display: flex;
+    align-items: center;
+    margin: 89px auto;
+}
+
+.heroleft h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -0.7px;
+    color: #fff;
+}
+
+.heroleft p {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 16px;
+    margin-bottom: 29px;
+}
+
+.herobuttons {
+    display: flex;
+    gap: 27px;
+}
+
+        /* Hero End */
+        /* Client Logos */
+
+.client {
+    opacity: 0.3
+}
+.client p{
+    margin-bottom: 24px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24OX;
+}
+
+.clientlogos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #212121;
+}
+
+        /* Client Logos End */
+        /* Friends */
+
+.friends {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 56px;
+}
+
+.friends h2 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 120px;
+}
+
+.friends h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    margin-top: 16px;
+    margin-bottom: 72px;
+    width: 665px;
+}
+
+.friends img {
+    margin-bottom: 120px;
+}
+
+        /* Friends End*/
+        /* Apple Watch */
+
+.applewatch {
+    display: flex;
+    align-items: center;
+    margin: 120px auto;
+}
+
+.appletext {
+    width: 538px;
+}
+
+.appletext h2 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 16px;
+
+}
+
+.appletext h3 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    margin-bottom: 24px;
+    letter-spacing: -0.4px;
+}
+
+.appletext p {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-bottom: 40px;
+}
+
+        /* Apple Watch End */
+        /* Analytics Desktop */
+
+.desktop {
+    margin: 120px auto;
+}
+
+.desktop h6 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.desktop h3 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    margin-bottom: 48px;
+}
+
+        /* Analytics Desktop End */
+        /* Price */
+.price {
+    margin: 120px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.price h6 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.price h3 {
+    font-family: 'Montserrat';
+    width: 647px;
+    margin: auto;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    margin-bottom: 48px;
+}
+
+
+.pricingtables {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+}
+
+.pricingtablestext {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    background: #121212;
+    border-radius: 12px;
+}
+
+.pricingtablestext h5 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.pricingtablestext p {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+.pricingtablestext h2 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    text-align: center;
+    letter-spacing: -0.7px;
+} 
+
+.pricebutton {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 32px;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    background: #DC3545;
+    border-radius: 3px;
+    padding: 16px 72px;
+    margin-top: 24px;
+}
+
+        /* Price End */
+        /* Askedquestions */
+.askedquestions {
+    margin: 120px auto 156px;
+}
+
+.askedquestions h4 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    letter-spacing: -0.35px;
+    margin-bottom: 32px;
+}
+
+.askedquestions h6 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 23px auto;
+}
+
+.askedquestions p {
+    width: 749px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 24px;
+}
+
+.askedquestions hr {
+    border-color: #3F3B3B;
+}
+
+        /* Askedquestions End*/
+        /* Download */
+
+.download {
+    margin: 26px auto 120px;
+    display: flex;
+    background: #121212;
+    border-radius: 12px;
+    height: 349px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.downloadbuttons {
+    width: 426px;
+}
+
+.download h1 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: -0.4px;
+    margin-bottom: 24px;
+}
+
+.downloadbutton {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 32px;
+    text-align: center;
+    background: #DC3545;
+    border-radius: 3px;
+    text-decoration: none;
+    padding: 16px 72px;
+    color: white;
+}
+
+.download img {
+    height: 313px;
+    width: 368px;
+    margin-top: 36px;
+}
+
+        /* Download End*/
+        /* Footer */
+footer {
+    background: #121212;
+    display: flex;
+    flex-direction: column;
+}
+
+.footerwidth {
+    width: 1110px;
+    margin: 72px auto ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content {
+    display: flex;
+    gap: 24px;
+}
+
+.linkscolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 165px;
+}
+
+.linkscolumn h6 {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.linkscolumn a {
+    text-decoration: none;
+}
+
+.linkscolumn p {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #807E7E;
+}
+
+.footerright p {
+    margin-bottom: 24px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: right;
+}
+
+.footerright input {
+    border: 0px;
+    background: #212121;
+    border-radius: 3px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #807E7E;
+    width: 354px;
+    height: 48px;
+    padding-left: 16px;
+}
+
+        /* Footer End */
+        /* end */
+.end {
+    width: 1110px;
+    height: 72px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.end p {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #807E7E;
+}
+
+.links {
+    display: flex;
+    gap: 50px;
+}
+        /* end end */

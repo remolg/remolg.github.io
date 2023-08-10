@@ -1,0 +1,1343 @@
+.containernavbar {
+    background-color: blue;
+}
+
+.navbar {
+    width: 1170px;
+    margin: 0 auto;  
+}
+
+.mobilehamburger {
+    display: none;
+}
+.navbarheader {  
+    padding-top: 16px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+.navbarheader h4 {
+    color: #fff;
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.navbarlinks {
+    display: flex;
+    gap: 20px;
+    margin-left: auto;
+    margin-right: 40px;
+}
+
+.navbarlinks a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'DM Sans';
+    font-weight: 700;
+}
+
+.navbarbutton {
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+    padding: 13px 57px;
+    text-decoration: none;
+    font-family: 'DM Sans';
+    font-weight: 700;
+}
+
+.expetenda {
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+.expetenda img {
+    width: 100%;
+    position: relative;
+    right: 10px;
+}
+
+
+.expetendaleft h5 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+.expetendaleft h1 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 80px;
+    margin-top: 24px;
+}
+
+.expetendaleft p {
+    font-family: 'DM Sans';
+    font-weight: 700;
+    margin-top: 32px;
+    width: 515px;
+}
+
+.expetendabutton {
+    font-family: 'DM Sans';
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+    padding: 13px 56px;
+    background: #F1B505;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 41px;
+}
+
+/* Vivendo */
+
+.containervivendo {
+    background-color: #FFDD78;
+}
+
+.vivendo {
+    width: 1170px;
+    margin: 0 auto;  
+}
+
+.vivendoheader {
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+.vivendoheader h2 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.vivendoheader p {
+    font-family: 'DM Sans';
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    width: 570px;
+    margin: 29px auto 36px auto;
+}
+
+.vivendocard {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.card {
+    width: 370px;
+    padding: 0 30px ;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.297017);
+    border-radius: 5px;
+}
+
+.card1 img {
+    margin: 64px auto 54px;
+}
+
+.card2 img {
+    margin: 73px auto 63px;
+}
+
+.card3 img {
+    margin: 58px auto 48px;
+}
+
+.card h4 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.card p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+    width: 306px; 
+    margin-bottom: 89px;
+}
+
+/* Vivendo End */
+/* Aliquip */
+
+.containeraliquip {
+    background-color: #f5f6fc;
+}
+
+.aliquip {
+    width: 1170px;
+    margin: 0 auto; 
+}
+
+.aliquipheader {
+    padding-top: 63px;
+}
+
+.aliquipheader h5 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+.aliquipheader h2 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: center;
+    margin-top: 21px;
+}
+
+.aliquipheader p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+    margin: 29px auto 0;
+    width: 570px;
+}
+
+.aliquipnemore {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.aliquipnemoreright h3 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    width: 323px;
+}
+
+.aliquipnemoreright p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+    width: 475px;
+    margin-top: 37px;
+}
+
+.aliquipnemorerightlernmore {
+    display: flex;
+    margin-top: 37px;
+}
+
+.aliquipnemorerightlernmore a {
+    text-decoration: none;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.aliquipnemorerightlernmore img {
+    margin-left: 6px;
+}
+
+.dolorem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.doloremleft h3 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    width: 392px;
+}
+
+.doloremleft p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+    width: 470px;
+}
+
+/* Aliquip End */
+/* Molestiae */
+
+.containermolestiae {
+    background: #434CCC;
+}
+
+.molestiae {
+    width: 1170px;
+    height: 768px;
+    margin: 0 auto; 
+} 
+
+.molestiaeheader {
+    padding-top: 79px;
+}
+
+.molestiaeheader h5 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.molestiaeheader h2 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 21px;
+}
+
+.molestiaeheader p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 29px auto 0;
+    width: 570px;
+    height: 83px;
+}
+
+.textonpicture {
+    background-image: url("../img/download.png");
+    position: relative;
+    top: 52px;
+    height: 512px;
+}
+
+.textpadding {
+    padding-left: 100px;
+    padding-top: 111px;
+}
+
+.textpadding p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+.textpadding h2 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    color: #FFFFFF;
+    width: 370px;
+}
+
+.textpadding a {
+    font-family: 'DM Sans';
+    font-weight: 700;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 13px 44px;
+    display: inline-block;
+    margin-top: 36px;
+}
+
+/* Molestiae End*/
+/* containerpictures */
+
+.containerpictures {
+    background-color: #f5f6fc;
+}
+
+.pictures {
+    width: 1170px;
+    margin: 0 auto; 
+    display: flex;
+    flex-direction: column;
+}
+
+.picturesheader {
+    background-color: #f5f6fc;
+    justify-content: center;
+    display: flex;
+    margin-top: 128px;
+    gap: 30px;
+}
+.erroribus {
+    background-image: url("../img/download2.jpg");
+    width: 570px;
+    height: 512px;
+}
+
+.scripserit {
+    background-image: url("../img/download3.jpg");
+    width: 570px;
+    height: 512px;
+}
+
+.erroribustext {
+    padding-top: 79px;
+    padding-left: 100px;
+}
+
+.erroribus p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.erroribus h4 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+    width: 161px;
+    margin-top: 17px;
+}
+
+.erroribus img {
+    margin-top: 38px;
+    padding: 14px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+}
+
+.scripserittext {
+    padding-top: 79px;
+    padding-left: 100px;
+}
+
+.scripserittext p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.scripserittext h4 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+    width: 147px;
+}
+
+.scripserittext img {
+    margin-top: 38px;
+    padding: 14px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+}
+
+.pictures a {
+    margin: 0 auto;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    padding: 13px 50px;
+    border: 1px solid rgba(67, 76, 204, 0.32);
+    
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 48px;
+}
+
+.nemore {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 24px;
+    padding-bottom: 79px;
+}
+
+.nemoreright h2 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px; 
+}
+
+.nemoreright p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 27px;
+}
+
+.nemorerightunder {
+    margin-top: 48px;
+    display: flex;
+    gap: 30px;
+    align-items: baseline;
+}
+
+.nemorerightunderleft h4 {
+    margin-top: 32px;
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.nemorerightunderleft p {
+    margin-top: 7px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.nemorerightunderright h4 {
+    margin-top: 24px;
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.nemorerightunderright p {
+    margin-top: 7px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* Molestiae end*/
+/* unup */
+
+.containerunup {
+    background: #434CCC;
+}
+
+.unup {
+    width: 1170px;
+    margin: 0 auto; 
+    display: flex;
+    align-items: center;
+}
+
+.unup img {
+    position: relative;
+    left: 135px;
+}
+
+.unupleft h5 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.unupleft h2 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-top: 21px;
+}
+
+.unupleft p {
+    width: 470px;
+    margin-top: 29px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+
+
+.unupleft a {
+    font-family: 'DM Sans';
+    display: inline-block;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 13px 56px;
+    background: #F1B505;
+    border-radius: 5px;
+    margin-top: 32px;
+}
+
+/* unup end*/
+/* scriptorem */
+
+.containerscriptorem {
+    background-color: #f5f6fc;
+}
+
+.scriptorem {
+    width: 1170px;
+    margin: 0 auto; 
+    display: flex;
+    padding-top: 63px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.scriptoremup h5 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+.scriptoremup h2 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: center;
+    margin-top: 21px;
+}
+
+.scriptoremup p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    width: 570px;
+    margin-top: 29px;
+}
+
+.scriptoremcards {
+    display: flex;
+    margin-top: 36px;
+    gap: 30px ;
+}
+
+.scriptoremcard {
+    padding: 33px 32px 21px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.297017);
+    border-radius: 5px;
+}
+
+
+.scriptoremcard h4 {
+    margin-top: 21px;
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.scriptoremcardunder {
+    display: flex;
+    margin-top: 43px;
+}
+
+.scriptoremcardunder p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    margin-right: auto;
+
+}
+
+.scriptoremcardlinks {
+    display: flex;
+    gap: 10px;
+}
+
+.adfall {
+    margin-top: 95px;
+}
+
+.adfall h5{
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+.adfall h2 {
+    margin-top: 21px;
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: center;
+}
+
+.adfall p {
+    width: 570px;
+    margin-top: 29px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+}
+
+.adfallcards {
+    margin-top: 52px;
+    margin-bottom: 112px;
+    gap: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.adfallcard {
+    width: 370px;
+    display: flex;
+    padding: 24px 32px 16px 32px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.297017);
+    border-radius: 5px;
+    align-items: flex-start;
+    gap: 25px;
+}
+
+.adfallcard p {
+    width: 232px;
+}
+
+.adfallcard img {
+    width: 50px;
+}
+
+
+.adfallcardright h4 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.adfallcardright p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* scriptorem end */
+/* dicta */
+
+.containerdicta {
+    background: #434CCC;
+    
+}
+
+.dicta {
+    width: 1170px;
+    margin: 0 auto; 
+    display: flex;
+    align-items: center;
+    padding-top: 112px;
+    padding-bottom: 114px;
+}
+
+.dictabuttons {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-right: 84px;
+}
+
+.dictabuttons a {
+    width: 48px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+    padding: 14px 18px 13px 17px;
+    color: #fff;
+}
+
+.dictaleft {
+    margin-left: 96px;
+}
+
+.dictaleft h5 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.dictamobile {
+    display: none;
+}
+
+.dictaleft h4 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-top: 33px;
+}
+
+.dictaleft p {
+    margin-top: 22px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+.dictaleft h6 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+/* dicta end */
+/* petentium */
+
+.containerpetentium {
+    background-color: #f5f6fc;
+}
+
+.petentium {
+    width: 1170px;
+    margin: 0 auto; 
+    padding-top: 79px;
+    text-align: center;
+}
+
+.petentium h5 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+.petentium h2 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    margin-top:21px;
+    margin-bottom: 29px;
+}
+
+.petentium h6 {
+    margin: 0 auto;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    width: 570px;
+}
+
+.petentiumsocialmedia {
+    display: flex;
+    margin-top: 52px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.petentium a {
+    display: inline-block;
+    margin: 0 auto;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    color: #434CCC;
+    padding: 13px 42px 11px 42px;
+    text-decoration: none;
+    border: 1px solid rgba(67, 76, 204, 0.32);
+    border-radius: 5px;
+    margin-top: 72px;
+    margin-bottom: 96px;
+}
+
+/* petentium end */
+/* novum */
+
+.novum {
+    width: 1170px;
+    margin: 0 auto; 
+    padding-top: 62px;
+}
+
+.novumup {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.novum h5{
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+.novumup h2 {
+    margin-top: 21px;
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+}
+
+.novumup a {
+    font-family: 'DM Sans';
+    font-weight: 700;
+    color: #434CCC;
+    text-decoration: none;
+    border: 1px solid rgba(67, 76, 204, 0.32);
+    border-radius: 5px;
+    padding: 13px 54px 11px 54px;
+}
+
+.novumcards {
+    display: flex;
+    gap: 30px; 
+    margin-top: 36px;
+}
+
+.novumcard {
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.297017);
+    border-radius: 5px;
+    padding: 32px 32px 21px 32px;
+}
+
+.novummobilea {
+    display: none;
+}
+
+
+.novummobile2 {
+    display: none;
+}
+
+.novumcard p {
+    margin-top: 15px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+ 
+.novumcard h4 {
+    margin-top: 17px;
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.novumlernmore {
+    display: flex;
+    margin-top: 43px;
+    gap: 7px;
+}
+
+.novumlernmore a {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.viderer {
+    margin-top: 208px;
+    display: flex;
+    gap: 30px;
+    padding-bottom: 112px;
+}
+
+.vidererleft h5 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+.vidererleft h4 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    margin-top: 33px;
+}
+
+.vidererinsta {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    gap: 14px;
+}
+
+.vidererinsta img {
+    color: #434CCC;
+    border: 1px solid rgba(67, 76, 204, 0.32);
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.vidererinsta p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* novum end */
+/* maiestatis */
+
+.containermaiestatis {
+    background: #FFDD78;
+}
+
+.maiestatis {
+    width: 1170px;
+    margin: 0 auto; 
+    padding-top: 21px;
+    display: flex;
+    align-items: center;
+}
+
+.maiestatis img {
+    position: relative;
+}
+
+.maiestatisleft h5 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+.maiestatisleft h2 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    margin-top: 21px;
+}
+
+.maiestatisleft p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 29px;
+}
+
+.maiestatisleftinput {
+    margin-top: 32px;
+    display: flex;
+    gap: 30px;
+}
+
+.maiestatisleftinput input {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    border: 1px solid #DADADA;
+    border-radius: 5px;
+    padding-top: 13px;
+    padding-bottom: 11px;
+    padding-left: 16px;
+    width: 270px;
+}
+
+.maiestatisleftinput a {
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #434CCC;
+    border-radius: 5px;
+    padding: 13px 45px 11px;
+    text-decoration: none;
+}
+
+.maiestatis img {
+    margin-bottom: 45px;
+}
+
+/* maiestatis end */
+/* ancillae */
+
+.containerancillae {
+    background: #434CCC;
+}
+
+.ancillae {
+    width: 1170px;
+    margin: 0 auto; 
+    padding-top: 96px;
+    padding-bottom: 96px;
+    display: flex;
+    gap: 130px;
+}
+
+.ancillaeimgcontainer {
+    align-items: center;
+    position: relative;
+}
+
+.mapiconmobile1 {
+    display: none;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.ancillaeright h5 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.ancillaeright h2 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-top: 21px;
+    text-align: left;
+    margin-bottom: 52px;
+}
+
+.ancillaeinputs {
+    display: flex;
+    flex-direction: column;
+    gap: 32px; 
+    width: 470px;
+}
+
+.ancillaeinputs input {
+    padding-top: 13px;
+    padding-bottom: 11px;
+    padding-left: 16px;
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+    border-radius: 5px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.ancillaeinputs textarea {
+    padding-top: 13px;
+    padding-bottom: 11px;
+    padding-left: 16px;
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+    border-radius: 5px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+    resize: none;
+}
+
+.ancillaeright a {
+    margin-top: 61px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #F1B505;
+    border-radius: 5px;
+    padding: 13px 57px 11px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+/* ancillae end */
+/* end */
+
+.containerend {
+    background-color: #f5f6fc;
+}
+
+.end {
+    width: 1170px;
+    margin: 0 auto; 
+    padding-top: 72px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 55px;
+}
+
+.endlogo {
+    width: 270px;
+}
+
+.endlogo h4 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.endlogo p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 23px;
+}
+
+.endlinks {
+    margin-top: 16px;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.endflex1 {
+    display: flex;
+    gap: 142px;
+}
+
+.endcause {
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.endflex {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 24px;
+}
+
+.endflex p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;  
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.endright {
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+    gap: 39px;
+}
+
+.endrightup {
+    display: flex;
+    gap: 30px;
+}
+
+.endrightup img {
+    width: 70px;
+    height: 48px;
+}
+
+.endgirlleft p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.endgirlleft h6 {
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 24px;
+}
+
+.created {
+    width: 1170px;
+    margin: 0 auto; 
+    padding-top: 72px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 29px;
+}
+
+.created p {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* end end */
