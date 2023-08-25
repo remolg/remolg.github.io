@@ -2541,6 +2541,7 @@ body.loaded .overlay_effect:after {
 	left: 0;
 	top: 0;
 	pointer-events: none;
+	background: white;
 	border-radius: 50%;
 	-webkit-transform: translateZ(0);
 	transform: translateZ(0);
